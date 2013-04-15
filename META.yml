@@ -1,0 +1,27 @@
+---
+abstract: 'An enhanced UserAgent'
+author:
+  - 'David Farrell <davidnmfarrell@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120630'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: WWW-SuperAgent
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Carp: 0
+  Encode: 0
+  LWP::UserAgent: 0
+  Test::More: 0
+  URI: 0
+  utf8: 0
+version: 0.01
