@@ -1,5 +1,8 @@
 Revision history for WWW-SuperAgent
 
+0.02    22/05/2013
+        Updated to require Perl 5.14.2 or greater to avoid failing install though use of s//r.
+
 0.01    Date/time
         First version, released on an unsuspecting world.
 

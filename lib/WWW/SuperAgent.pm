@@ -1,5 +1,5 @@
 package WWW::SuperAgent;
-
+require 5.14.2;
 use LWP::UserAgent;
 use Carp qw/croak carp/;
 use utf8;
@@ -16,7 +16,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
