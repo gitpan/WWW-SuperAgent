@@ -1,4 +1,6 @@
 Revision history for WWW-SuperAgent
+0.03    06/06/2013
+        Updated Makefile.PL with 5.14.0 requirement.
 
 0.02    22/05/2013
         Updated to require Perl 5.14.2 or greater to avoid failing install though use of s//r.
